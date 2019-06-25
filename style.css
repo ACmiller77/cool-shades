@@ -63,7 +63,7 @@ h1 {
 
 .hands1 {
   display: inline-block;
-  width: 400px;
+  max-width: 50%;
 }
 
 .hands2 {
