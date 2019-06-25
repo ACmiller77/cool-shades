@@ -57,7 +57,7 @@ h1 {
 }
 
 .hands {
-  margin-top: 50%;
+  max-width: 50%;
   margin-left: 10%;
 }
 
@@ -70,6 +70,6 @@ h1 {
 }
 
 .product {
-  margin-top 50%;
-  margin-left: 10%;
+  max-width: 50%;
+  margin-right: 10%;
 }
