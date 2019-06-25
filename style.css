@@ -4,7 +4,7 @@
 }
 
 .logo-subimage {
-  font-size: 1.5em;
+  font-size: 1em;
   font-style: italic;
   font-weight: bold;
   float: right;
@@ -16,7 +16,7 @@
   font-weight: bold;
 }
 
-.h1 {
+h1 {
   color: white;
   font-weight: bold;
   font-style: italic;
