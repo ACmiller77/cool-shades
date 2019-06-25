@@ -61,7 +61,12 @@ h1 {
   margin-left: 10%;
 }
 
-.hands {
+.hands1 {
+  display: inline-block;
+  width: 300px;
+}
+
+.hands2 {
   display: inline-block;
   width: 600px;
 }
