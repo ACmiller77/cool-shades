@@ -71,5 +71,6 @@ h1 {
 
 .product {
   float: right;
-  margin-right: 10%;
+  margin: auto;
+  max-width: 600px;
 }
