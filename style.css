@@ -22,3 +22,8 @@ h1 {
   font-weight: bold;
   font-style: italic;
 }
+
+.call {
+  font-family: arial, sans-serif;
+  color: white;
+}
