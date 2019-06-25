@@ -20,6 +20,10 @@
   font-weight: bold;
 }
 
+.action {
+  margin-left: 10%;
+}
+
 h1 {
   font-family: Arial, sans-serif;
   color: white;
