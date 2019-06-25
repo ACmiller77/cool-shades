@@ -11,12 +11,13 @@
   margin: 0 16px 0 0;
 }
 
-nav-link {
+.nav-link {
   color: white;
   font-weight: bold;
 }
 
 h1 {
+  font: Arial, sans-serif;
   color: white;
   font-weight: bold;
   font-style: italic;
