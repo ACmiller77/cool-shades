@@ -57,9 +57,9 @@ h1 {
 }
 
 .hands {
-  margin-top: 10%;
-  margin-left: 10%;
-  width:500px;
+  display: inline-block;
+  margin: 10%;
+  width: 500px;
 }
 
 .alt1 {
@@ -68,10 +68,4 @@ h1 {
 
 .alt2 {
   color: black;
-}
-
-.product {
-  margin-top: 10%;
-  margin-right: 10%
-  width: 500px;
 }
