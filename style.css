@@ -56,13 +56,9 @@ h1 {
   background-color: #bb1117 !important;
 }
 
-.spacer {
-  width: 50px;
-}
-
 .hands {
   display: inline-block;
-  margin: auto;
+  margin-left: 10%;
   width: 600px;
 }
 
