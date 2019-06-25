@@ -57,7 +57,7 @@ h1 {
 }
 
 .hands {
-  max-width: 50%;
+  margin-top: 20%;
   margin-left: 10%;
 }
 
@@ -70,6 +70,6 @@ h1 {
 }
 
 .product {
-  max-width: 50%;
+  float: right;
   margin-right: 10%;
 }
