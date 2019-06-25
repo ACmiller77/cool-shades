@@ -68,7 +68,8 @@ h1 {
 
 .hands2 {
   display: inline-block;
-  width: 500px;
+  height: auto;
+  width: auto;
 }
 
 .alt1 {
