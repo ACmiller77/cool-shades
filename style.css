@@ -57,13 +57,12 @@ h1 {
 }
 
 .level2 {
-  margin-top: 10%
-  margin-left: 10%
+  margin: 10%, 0, 0, 10%
 }
 
 .hands {
   display: inline-block;
-  width: 500px;
+  width: 400px;
 }
 
 .alt1 {
