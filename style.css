@@ -1,3 +1,11 @@
+a:link {
+  color: white;
+}
+
+a:visited {
+  color: gray;
+}
+
 .hero {
   background-image: url('images/hero.jpg');
   background-size: cover;
@@ -20,7 +28,6 @@
 }
 
 .nav-link {
-  color: white;
   font-weight: bold;
 }
 
