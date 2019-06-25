@@ -3,6 +3,10 @@
   background-size: cover;
 }
 
+.logos {
+  margin-left: 20%;
+}
+
 .logo-subimage {
   font-size: 1em;
   font-style: italic;
