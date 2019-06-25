@@ -50,12 +50,9 @@ h1 {
 
 .btn {
   background-color: #D51419 !important;
+  font-family: times, serif, !important;
 }
 
 .btn:hover {
   background-color: #bb1117 !important;
 }
-
-.button {
-  font-family: Times, serif, !important;
-  }
