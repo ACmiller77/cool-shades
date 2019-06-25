@@ -1,9 +1,9 @@
 a:link {
-  color: white;
+  color: white !important;
 }
 
 a:visited {
-  color: blue;
+  color: blue !important;
 }
 
 .hero {
