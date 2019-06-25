@@ -59,7 +59,7 @@ h1 {
 .hands {
   margin-top: 10%;
   margin-left: 10%;
-  max-width: 40%;
+  width:500px;
 }
 
 .alt1 {
@@ -71,5 +71,7 @@ h1 {
 }
 
 .product {
+  margin-top: 10%;
   margin-right: 10%
+  width: 500px;
 }
