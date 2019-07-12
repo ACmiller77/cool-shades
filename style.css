@@ -38,7 +38,7 @@ a:visited {
 
 h1 {
   font-family: Arial, sans-serif;
-  color: white;
+  color: black;
   font-weight: bold;
   font-style: italic;
 }
@@ -47,6 +47,32 @@ h1 {
   font-family: arial, sans-serif;
   color: white;
 }
+
+
+.btn-peppers {
+  background-color: #DC3545;
+  color: #ffffff;
+  font-weight: bold;
+  padding: 10px 15px;
+}
+
+.btn-peppers:hover {
+background-color: #aa1418;
+color: white;
+}
+
+.text1 {
+  font-size: 1.5em
+}
+
+.ig-rel {
+  position: relative;
+}
+
+.ig-abs {
+  position: absolute;
+  bottom: 10px;
+  left: 25px;
 
 .btn {
   background-color: #D51419 !important;
@@ -78,4 +104,8 @@ h1 {
 
 .alt2 {
   color: black;
+}
+
+div.container {
+  margin-top: 50px;
 }
