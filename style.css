@@ -43,6 +43,10 @@ h1 {
   font-style: italic;
 }
 
+h3 {
+  font-style: italic;
+}
+
 .call {
   font-family: arial, sans-serif;
   color: white;
