@@ -77,6 +77,7 @@ color: white;
   position: absolute;
   bottom: 10px;
   left: 25px;
+}
 
 .btn {
   background-color: #D51419 !important;
@@ -110,5 +111,25 @@ color: white;
   color: black;
 }
 
+.find {
+  background-color: #fafafa;
+  margin: 10px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.fourpics {
+  text-align: center;
+}
+
 .peppers-product {
-  }
+background-color: #fafafa;
+border: 5px solid white;
+padding-top: 80px;
+padding-bottom: 80px;
+}
+
+.learn {
+  color: red;
+  text-decoration: underline;
+}
