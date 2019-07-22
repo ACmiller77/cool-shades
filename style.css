@@ -144,7 +144,15 @@ a.learn {
 #specs {
   background-color: #fafafa;
   margin-top: 10px;
-  padding-top: 30px;
   font-size: 1.5em;
   font-family: Arial;
+}
+
+#black-shades {
+  position: relative;
+}
+
+#feature-list {
+  position: absolute;
+  top: 50px;
 }
