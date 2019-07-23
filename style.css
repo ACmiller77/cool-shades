@@ -156,3 +156,33 @@ a.learn {
   position: absolute;
   top: 50px;
 }
+
+/*--footer--*/
+
+.footer {
+  background-color: black;
+  padding-top: 80px;
+}
+
+a.bigs {
+font-weight: bold !important;
+font-size: 1.3em;
+}
+
+a.smalls {
+  color: gray !important;
+  font-size: 1em;
+
+}
+
+.pep {
+  text-align: right;
+}
+
+.rocks {
+  text-align: right;
+  margin-top: 4px;
+  margin-right: 10px;
+  font-size: .8em;
+  font-style: italic;
+}
