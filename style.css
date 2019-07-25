@@ -186,3 +186,12 @@ a.smalls {
   font-size: .8em;
   font-style: italic;
 }
+
+.end {
+  margin-top: 80px;
+}
+
+.end-link {
+  font-weight: bold;
+  color: white;
+}
